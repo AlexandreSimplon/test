@@ -1,0 +1,97 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body {
+        font-size: 20px;
+        text-align: center;
+        background-attachment: fixed;
+        background-size: cover;
+}
+
+.menu{
+	width: 100%;
+	/* height: 120px; */
+        background-color:rgba(255,255,255,0.6);
+}
+.menu ul {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+}
+.menu ul li {
+        padding: 30px;
+        list-style-type: none;
+        color: white;
+}
+.menu ul li a{
+        color: white;
+        text-transform: uppercase;
+        text-decoration: none
+}
+.menu-item2 {
+        border-left: 2px solid #fff;
+        border-right: 2px solid #fff;
+}
+/* .menu-item1 {
+        display: inline-block;
+        margin-left: 300px;
+        margin-top: 30px;
+        
+}
+.menu-item2{
+        display: inline-block;
+        margin-left: 400px;
+}
+.menu-item1 a, .menu-item2 a {
+        color: white;
+        font-size: 1.9em;
+        text-decoration: none;
+}
+.menu-follow {
+        float: right;
+
+
+
+
+
+#cadena {
+        height: 50%;
+        color: aliceblue;
+        display: none;
+        margin: auto;
+        background: rgba(255,255,255,0.3);
+        margin-top: 8%;
+        width: 33%;
+        border: 3px solid;
+        border-radius: 3pc;
+        padding: 20px;
+}
+#cadena input {
+        width: 90%;
+        height: 30px;
+        text-align: center;
+}
+#cadena label {
+        display: block;
+}
+.btimg{
+        text-align: center;
+}
+
+.imgbt{
+        width: 35px;
+}
+*/
+
+.valide{
+        justify-content: center;
+        margin-top: 18%;
+        color: rgba(255, 255, 255, 0.705);
+        text-shadow: 2px 2px 3px rgb(134, 132, 132);
+}
+
+.a {
+        text-decoration: none; color: rgba(255, 255, 255, 0.705); text-shadow: 1px 1px 2px rgb(134, 132, 132);
+
+}
